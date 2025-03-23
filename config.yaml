@@ -1,0 +1,7 @@
+path: C:\Programs\python\labelImg\datasets\coco128
+train: images\train
+val: images\train
+
+#classes
+names:
+  0: person
